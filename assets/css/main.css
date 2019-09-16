@@ -1811,7 +1811,9 @@ input, select, textarea {
 		border-radius: 6px;
 		border: solid 1px #e6e6e6;
 		margin-bottom: 2em;
-    padding: 4em 4em 2em 4em;;
+    padding: 4em 4em 2em 4em;
+    display: inline-block;
+
     
 	}
 
@@ -3135,7 +3137,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #fbfbfb;
+			
 			color: #999999;
 		}
 
@@ -3144,8 +3146,8 @@ input, select, textarea {
 			.wrapper.style2 input[type="button"],
 			.wrapper.style2 button,
 			.wrapper.style2 .button {
-				background-color: transparent;
-				color: #828282 !important;
+				background-color: #9c112a;
+				color:white !important;
         box-shadow: inset 0 0 0 2px #e6e6e6;
         text-align: center
 			}
